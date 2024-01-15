@@ -139,3 +139,7 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+./PlatformService/bin
+PlatformService/obj/Debug
+PlatformService/obj
