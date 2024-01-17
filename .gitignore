@@ -140,6 +140,7 @@ Desktop.ini
 ######################
 .eslintcache
 
-./PlatformService/bin
-PlatformService/obj/Debug
-PlatformService/obj
+PlatformService/bin/*
+PlatformService/obj/*
+PlatformService/obj/Debug/*
+PlatformService/obj/Project/*
