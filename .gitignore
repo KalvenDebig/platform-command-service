@@ -144,3 +144,8 @@ PlatformService/bin/*
 PlatformService/obj/*
 PlatformService/obj/Debug/*
 PlatformService/obj/Project/*
+
+CommandService/bin/*
+CommandService/obj/*
+CommandService/obj/Debug/*
+CommandService/obj/Project/*
