@@ -56,4 +56,3 @@ public async Task<ActionResult<PlatformService>> CreatePlatform(PlatformCreateDt
 * Event model, publish - subscribe  
 * Typically used between services  
 * Event bus is often used  
-* 
