@@ -17,17 +17,8 @@
 * Used by:
   * Tech support team
   * Infra team
-  * Engineering  
-
-## Solution Architecture  
-![Solution](1.png)
-
-## Platform Architecture  
-![Solution2](2.png)
-
-## Command Architecture  
-![Solution3](3.png)
-
+  * Engineering
+  
 ## Synchronous Messaging  
 * Request/Response style
 * Request will "wait" for response  
